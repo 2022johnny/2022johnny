@@ -1,7 +1,7 @@
-I'm johnny Achille, I am living in Brazil. I'm a database graduate from Uninove university, I am taking a post-graduate course in data science.
+👋 Hi, I’m Johnny, a graduate of Uninove University in São Paulo. My passion lies at the intersection of SQL, Python, machine learning, generative AI, and data analysis. Whether I’m exploring data or building innovative models, I thrive on turning insights into actionable solutions.
 I'm good at communicating and organizing, I really like working in groups.
-I've some experience in google cloud, AWS, python, descriptive data analysis, descriptive statistics for data science, SQL, 
-databases, power bi, and machine learning, I have already developed several machine learning projects, like classification projects, regression projects, and clustering projects.
+I've some experiences in process automation with python,web scraping,descriptive data analysis, descriptive statistics for data analytics,SQL, 
+databases,power BI,I have already developed several machine learning projects and data analytics project, like classification projects, regression projects, and clustering projects.
 I'm interested in learning something new each day, I can say that I'm curious about learning. 
 I do like manipulating and visualizing data to gain insights.
 
